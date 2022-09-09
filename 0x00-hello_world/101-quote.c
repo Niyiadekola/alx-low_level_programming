@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * * main - main function in the task
- * *
- * *
- * *Return: return 1
+ * main - main function in the task
+ *
+ *
+ *Return: return 1
  */
 int main(void)
 {
